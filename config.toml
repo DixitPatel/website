@@ -1,7 +1,7 @@
-baseurl = "http://dixitpatel.github.io"
+baseurl = "https://dixitpatel.github.io"
 languageCode = "en-us"
 title = "Dixit Patel"
-publishDir= "public"
+publishdir= "public"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
@@ -15,7 +15,7 @@ theme = "hugo-icarus-theme"
 
 
 [permalinks]
-    post = "/:year/:month/:day/:slug"
+    post = "/:year/:month/:day"
 
 
 [params]
@@ -25,8 +25,8 @@ theme = "hugo-icarus-theme"
     bio = "Software Engineer"
     location = "Boulder,Colorado"
     site_description = ""
-    copyright  = "Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice)."
-    avatar = "css/images/dixit2.jpg"
+    copyright  = "Powered by [Hugo](//gohugo.io)."
+    avatar = "css/images/dixit5.jpg"
     # Enter your email address to display your Gravatar icon in the profile. If not set the theme
     # will fallback to the avatar.
     #gravatar = "you@example.com"
@@ -37,7 +37,7 @@ theme = "hugo-icarus-theme"
     mainSections = ["post"]
 
     # Format dates with Go's time formatting
-    date_format = "2006-01-02"
+    date_format = "Monday, Jan 2, 2006"
 
     # Add custom assets with their paths relative to the static folder
 	custom_css = []
@@ -52,7 +52,7 @@ theme = "hugo-icarus-theme"
 [[params.menu]]
     before = true
     label  = "Home"
-    link   = "/"
+    link   = "index.html"
 
 [[params.menu]]
     before = false
@@ -61,8 +61,14 @@ theme = "hugo-icarus-theme"
 
 [[params.menu]]
     before = false
-    label  = "Categories"
-    link   = "categories/"
+    label  = "About"
+    link   = "about/"
+
+
+[[params.menu]]
+    before = false
+    label  = "Wisdom"
+    link   = "wisdom/quotes"
 
 #[[params.menu]]
 #    before = false
@@ -71,7 +77,7 @@ theme = "hugo-icarus-theme"
 
 # Enter a link for the follow button on the left
 #[params.profile]
-    #follow_button = "https://github.com/digitalcraftsman"
+    #follow_button = "https://github.com/DixitPatel"
 
 
 [social]
