@@ -22,14 +22,14 @@ I often come across inspirational content/quotes on various blog posts, HackerNe
 </blockquote>
 
 * **Maria Popova**<br>
-  <a href="https://www.youtube.com/watch?v=arq4x4WDYvM">Do Lectures</a>.  I've always found her content on [BrainPickings](http://brainpickings.org/) to be very thought provoking.<br>
-  <blockquote>
+<a href="https://www.youtube.com/watch?v=arq4x4WDYvM">Do Lectures</a>.  I've always found her content on [BrainPickings](http://brainpickings.org/) to be very thought provoking.<br>
+<blockquote>
   * *Allow yourself the uncomfortable luxury of changing your mind.*
   * *Expect anything worthwhile to take a long time.*
   * *Presence is far more intricate and rewarding an art than productivity.*
-  </blockquote>
+</blockquote>
 
-* **Eric Schmidt**<br>
+ * **Eric Schmidt**<br>
   Transcript: <a href="https://www.youtube.com/watch?v=Bh804pcy5sc&t=1014s"> Stanford GSB Talk </a>
   <blockquote> *Say yes to things. I say this when people ask me for advice on how to organize themselves. Just say yes to things. Figure out a way to do it. Say yes to an   invitation to a new country. Say yes to learn new things. Even if it is out of your comformt zone, saying yes means you will do something different, something new and make a difference. It let's you stand out of the crowd, be an optimist, see the glass half-full. Yes is what keeps us all young.*
   </blockquote>
