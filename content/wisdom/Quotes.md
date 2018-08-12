@@ -9,7 +9,7 @@ tags = []
 title = "Quotes"
 +++
 
-I often come across inspirational content/quotes on various blog posts, HackerNews, reddit etc that I keep stockpiling into my Evernote. Below are tidbits from this diary of growing wisdom. Hope you like them!
+I often come across inspirational content/quotes on youtube, blog posts, HackerNews, etc that I keep stockpiling into my Evernote. Below are tidbits from this diary of growing wisdom. Hope you like them!
 
 
 * **Bill Gates**<br>
